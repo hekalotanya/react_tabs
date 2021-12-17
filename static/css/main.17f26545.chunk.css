@@ -1,0 +1,2 @@
+.App{flex-direction:column}.App,.tabs{display:flex;grid-gap:25px;gap:25px}.tabs{font-size:30px}.tab{padding-bottom:5px;border-bottom:1px solid transparent}.tab:hover{cursor:pointer}.isActive,.tab:hover{border-bottom:1px solid #000}.content{font-size:25px}
+/*# sourceMappingURL=main.17f26545.chunk.css.map */
